@@ -2,9 +2,13 @@
 
 ## Example project of building a Large Language Model in Python (Jupyter Notebook) from FreeCodeCamp Video
 
- **Dependencies** ***(Windows)*** "pip install pylzma numpy ipykernel jupyter torch --index-url https://download.pytorch.org/whl/cu118"
+ **Dependencies** ***(Windows)*** "pip install matplotlib pylzma numpy ipykernel jupyter torch --index-url https://download.pytorch.org/whl/cu118"
 
 **PREREQUISITES**
+Anaconda Prompt (https://docs.anaconda.com/free/anaconda/install/windows/)
+Microsoft C++ build tools (https://visualstudio.microsoft.com/downloads/?q=build+tools)
+Visual Studio Code (https://code.visualstudio.com/download)
+
 
 **CONFIGURATION**
 
