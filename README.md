@@ -9,6 +9,7 @@
 - Anaconda Prompt (https://docs.anaconda.com/free/anaconda/install/windows/)
 - Microsoft C++ build tools (https://visualstudio.microsoft.com/downloads/?q=build+tools)
 - Visual Studio Code (https://code.visualstudio.com/download)
+- Jupyter Notebook (https://jupyter.org/install)
 
 
 
