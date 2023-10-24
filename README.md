@@ -10,7 +10,7 @@
 - Microsoft C++ build tools (https://visualstudio.microsoft.com/downloads/?q=build+tools)
 - Visual Studio Code (https://code.visualstudio.com/download)
 - Jupyter Notebook (https://jupyter.org/install)
-- OpenWeb Download (https://skylion007.github.io/OpenWebTextCorpus/)
+- OpenWebText Download (https://skylion007.github.io/OpenWebTextCorpus/)
 
 
 
